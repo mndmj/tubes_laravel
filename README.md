@@ -9,6 +9,6 @@
 
 ## About Laravel
 
-Nama -> Muhammad Nasrullah Darto Marrung Jaya
-NIM  -> 5190411589
-Kelas-> Web Responsive D
+<p>Nama -> Muhammad Nasrullah Darto Marrung Jaya</p>
+<p>NIM  -> 5190411589</p>
+<p>Kelas-> Web Responsive D</p>
