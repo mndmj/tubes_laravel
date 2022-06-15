@@ -48,7 +48,7 @@ class AuthController extends Controller
             'email' => $request->email,
             'password' => $request->password
         ])) {
-            return redirect('/');
+            return redirect('/admin');
         } else {
             $_SESSION['notif'] = true;
             return redirect('/login');

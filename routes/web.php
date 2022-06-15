@@ -15,11 +15,11 @@ use App\Http\Controllers\AdminController;
 |
 */
 
-// Route::get('/', function () {
-//     return view('welcome');
-// });
+Route::get('/', function () {
+    return view('welcome');
+});
 
-Route::get('/', [AdminController::class, 'admin']);
+Route::get('/admin', [AdminController::class, 'admin']);
 
 Route::get('/login', [AuthController::class, 'login']);
 
