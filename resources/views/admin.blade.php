@@ -32,13 +32,19 @@
                                     <th style="width: 100px">Action</th>
                                 </tr>
                             </thead>
+                            <?php 
+                            
+
+                            ?>
                             <tbody>
+                                {{-- @foreach ($collection as $item) --}}
                                 <tr>
                                     <td></td>
                                     <td></td>
                                     <td></td>
                                     <td></td>
                                 </tr>
+                                {{-- @endforeach --}}
                             </tbody>
                         </table>
                     </div>
