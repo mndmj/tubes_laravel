@@ -7,6 +7,7 @@
         </ul>
             <a class="text-white nav-link" href="/">
                 <i class="fas fa-sign-out-alt"></i>
+                
             </a>
     </div>
 </nav>
